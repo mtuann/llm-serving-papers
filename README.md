@@ -4,7 +4,7 @@ Systems for serving large language models: request scheduling and SLOs, KV-cache
 
 **203 papers with code** out of 5,131 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=llm_serving)**
 
-**More lists:** [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers)
+**More lists:** [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
 ## Newest 200 papers with code
 
