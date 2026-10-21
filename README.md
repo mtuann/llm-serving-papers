@@ -2,7 +2,7 @@
 
 Systems for serving large language models: request scheduling and SLOs, KV-cache and in-context caching, speculative decoding, disaggregated prefill/decode, and RAG / compound-AI serving.
 
-**415 papers with code** out of 6,113 indexed · updated **October 19, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=llm_serving)**
+**415 papers with code** out of 6,113 indexed · updated **October 20, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=llm_serving)**
 
 **More lists:** [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
