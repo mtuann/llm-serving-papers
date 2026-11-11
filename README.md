@@ -2,7 +2,7 @@
 
 Systems for serving large language models: request scheduling and SLOs, KV-cache and in-context caching, speculative decoding, disaggregated prefill/decode, and RAG / compound-AI serving.
 
-**473 papers with code** out of 6,652 indexed · updated **November 09, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=llm_serving)**
+**473 papers with code** out of 6,652 indexed · updated **November 11, 2026** · **[Browse and search all papers →](https://mtuann.github.io/papers/?topic=llm_serving)**
 
 **More lists:** [RAG](https://github.com/mtuann/rag-papers) · [Agent CDN](https://github.com/mtuann/agent-cdn-papers) · [Backdoor Learning](https://github.com/mtuann/backdoor-ai-resources) · [Machine Unlearning](https://github.com/mtuann/machine-unlearning-papers) · [Federated Learning](https://github.com/mtuann/federated-learning-updated-papers)
 
@@ -208,7 +208,7 @@ Systems for serving large language models: request scheduling and SLOs, KV-cache
 | 2026-01-01 | [Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing](https://openreview.net/forum?id=M0LcrbiQuR)<br><sub>Association for Computational Linguistics, Shihao Bai, Ruihao Gong et al.</sub> | ACL 2026 | [![stars](https://img.shields.io/github/stars/Longxmas/Focus-dLLM?style=flat&label=%E2%98%85)](https://github.com/Longxmas/Focus-dLLM) |
 | 2026-01-01 | [Cold-Start Model Delivery in Kubernetes Inference Serving: An Empirical Study of OCI-Based Distribution and Its Integrity](https://doi.org/10.1109/ACCESS.2026.3731156)<br><sub>Georgii Kliukovkin</sub> | IEEE Access, vol. 14, 2026 (Early Access) | [![stars](https://img.shields.io/github/stars/kliukovkin/oci-model-delivery-bench?style=flat&label=%E2%98%85)](https://github.com/kliukovkin/oci-model-delivery-bench) |
 | 2025-12-31 | [Risk-Aware Privacy Preservation for LLM Inference](https://openreview.net/forum?id=DqCLkHDzR4)<br><sub>Zhihuang Liu, Zhangdong Wang, Tongqing Zhou et al.</sub> | IEEE TIFS | [![stars](https://img.shields.io/github/stars/Cristliu/RapLI?style=flat&label=%E2%98%85)](https://github.com/Cristliu/RapLI) |
-| 2025-12-31 | [RVLLM-Bench: A Comprehensive Benchmark for Large Language Model Inference with RISC-V Vector Extension](https://openreview.net/forum?id=dbUPW4uXWG)<br><sub>Zhilu Pan, Xiaofeng Zou, Panfeng Chen et al.</sub> | Lecture Notes in Computer Science | [![stars](https://img.shields.io/github/stars/JocelynPanPan/rvllm-bench?style=flat&label=%E2%98%85)](https://github.com/JocelynPanPan/rvllm-bench) |
+| 2025-12-31 | [RVLLM-Bench: A Comprehensive Benchmark for Large Language Model Inference with RISC-V Vector Extension](https://openreview.net/forum?id=dbUPW4uXWG)<br><sub>Zhilu Pan, Xiaofeng Zou, Panfeng Chen et al.</sub> | DASFAA 2025 | [![stars](https://img.shields.io/github/stars/JocelynPanPan/rvllm-bench?style=flat&label=%E2%98%85)](https://github.com/JocelynPanPan/rvllm-bench) |
 | 2025-12-30 | [PackKV: Reducing KV Cache Memory Footprint through LLM-Aware Lossy Compression](https://openreview.net/forum?id=d5FjO1O3pf)<br><sub>Bo Jiang, Taolue Yang, Youyuan Liu et al.</sub> | Proceedings - IEEE International Parallel and Distributed Processing Symposium | [![stars](https://img.shields.io/github/stars/BoJiang03/PackKV?style=flat&label=%E2%98%85)](https://github.com/BoJiang03/PackKV) |
 
 ---
